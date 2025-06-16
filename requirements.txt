@@ -1,6 +1,0 @@
-discord.py
-requests
-langdetect
-keep_alive
-flask
-emoji
